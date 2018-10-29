@@ -1,0 +1,22 @@
+
+body {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#pets {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%
+}
+
+.card-img-top {
+    height: 100px;
+    object-fit: cover;
+}
+
+/* .buttons {
+    margin: 20px;
+} */
